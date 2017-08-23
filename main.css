@@ -1,6 +1,9 @@
 body {
 	background-color: lightblue;
 }
+h1 {
+	text-align: center;
+}
 #kat-koral {
 	display: flex;
 	flex-wrap: wrap;
