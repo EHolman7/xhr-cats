@@ -1,0 +1,31 @@
+body {
+	background-color: lightblue;
+}
+h1 {
+	text-align: center;
+}
+#kat-koral {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center; 
+}
+.catImage{
+		display: block;
+	margin: auto;
+	margin-top: 5%;
+	width: 400px;
+	height: 300px;
+}
+.catBox {
+	margin: 1%;
+	width: 400px;
+	border: 2px solid slategray;
+}
+.catName {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Lemonada', cursive;
+}
+.catColor {
+	padding: 2%;
+}
